@@ -60,7 +60,6 @@ const styles = StyleSheet.create({
   },
   recipeTimeText: {
     backgroundColor: "white",
-    // position: "relative",
     marginHorizontal: 35,
     marginTop: -36,
     width: 120,

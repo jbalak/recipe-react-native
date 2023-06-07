@@ -1,0 +1,22 @@
+[
+   {"name": "Side Dish","image":"https://images.pexels.com/photos/6126970/pexels-photo-6126970.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Main Course","image":"https://images.pexels.com/photos/10570569/pexels-photo-10570569.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "South Indian","image":"https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Lunch","image":"https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Snack","image":"https://images.pexels.com/photos/1894325/pexels-photo-1894325.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "High Protein","image":"https://images.pexels.com/photos/6157033/pexels-photo-6157033.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Dinner","image":"https://images.pexels.com/photos/3184183/pexels-photo-3184183.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Appetizer","image":"https://images.pexels.com/photos/434283/pexels-photo-434283.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Indian Breakfast","image":"https://images.pexels.com/photos/14831540/pexels-photo-14831540.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Dessert","image":"https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "North Indian","image":"https://media.istockphoto.com/id/1413566368/photo/indian-food-aloo-paratha-or-indian-potato-stuffed-flatbread-served-with-butter-pickle-and.jpg?b=1&s=612x612&w=0&k=20&c=uxaqX26rwbvxD3KCR1mqwcX2UyjqQil0oivpfxQJhhs="},
+   {"name": "One Pot Dish","image":"https://images.pexels.com/photos/4551567/pexels-photo-4551567.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "World Breakfast","image":"https://images.pexels.com/photos/15923905/pexels-photo-15923905/free-photo-of-bread-with-a-fried-egg-and-cucumber-slices.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Non Vegeterian","image":"https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Vegetarian","image":"https://images.pexels.com/photos/4113834/pexels-photo-4113834.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Eggetarian","image":"https://images.pexels.com/photos/16496268/pexels-photo-16496268/free-photo-of-breakfast-egg-on-toast.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Sattvic","image":"https://images.pexels.com/photos/1400172/pexels-photo-1400172.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Brunch","image":"https://images.pexels.com/photos/2272037/pexels-photo-2272037.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Vegan","image":"https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600"},
+   {"name": "Sugar Free", "image":"https://images.pexels.com/photos/8844906/pexels-photo-8844906.jpeg?auto=compress&cs=tinysrgb&w=600"}
+]
